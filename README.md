@@ -1,5 +1,6 @@
 # Crack
 SEBUAH TOOLS UNTUK CRACK
+Install Bahan!!
 
 $ pkg update && pkg upgrade
 
